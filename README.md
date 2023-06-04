@@ -12,3 +12,8 @@ En libros al momento de realizar dicho prestamo la disponibilidad dismunye y cua
 Esa es la funcionalidad
 ![image](https://github.com/johan2021283/SistemaBiblioteca/assets/99548614/87914163-ae38-42f1-bdce-95f988522215)
 
+
+Esas son las tablas en la base de datos
+![image](https://github.com/johan2021283/SistemaBiblioteca/assets/99548614/7c5984c6-1e21-48f5-b9dc-c88c8eac0e5a)
+
+
